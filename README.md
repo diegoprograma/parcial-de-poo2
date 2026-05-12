@@ -27,3 +27,6 @@ Probabilidad:40%.
 Clase:Arquero 
 Habilidad Especial:Tiro Crítico: Duplica el daño si el ataque supera la defensa.
 Probabilidad: 30%.
+
+
+https://drive.google.com/drive/folders/1B75bnprVi7lnfWkwHzOroNEwUeaFNmW4
