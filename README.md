@@ -15,7 +15,15 @@ Herencia: Clases especializadas (Guerrero, Mago, Arquero) que heredan de la clas
 
 Polimorfismo: Cada clase hija implementa su propio método atacar(), permitiendo que el motor de batalla maneje cualquier personaje de forma genérica.
 
-Clase       ,                                       Habilidad Especial,                                                                               Probabilidad
-Guerrero,Furia:                            Incrementa el daño base en un 20%.                                                                            30%
-Mago,Hechizo:                             Ignora completamente la defensa del oponente.                                                                  40%
-Arquero,                                  Tiro Crítico: Duplica el daño si el ataque supera la defensa.                                                  30%
+Clase:Guerrero,
+Habilidad Especial: Furia:Incrementa el daño base en un 20%.
+Probabilidad: 30%.
+
+Clase: Mago
+Habilidad Especial: Ignora completamente la defensa del oponente.
+Probabilidad:40%.
+
+
+Clase:Arquero 
+Habilidad Especial:Tiro Crítico: Duplica el daño si el ataque supera la defensa.
+Probabilidad: 30%.
